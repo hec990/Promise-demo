@@ -1,0 +1,8 @@
+{
+  "name": "Promise-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "then-fs": "^2.0.0"
+  }
+}
